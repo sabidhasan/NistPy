@@ -7,7 +7,8 @@ Object oriented design allows using data in ways not possible with Nist Webbook 
 
 Project is still under construction, please use caution, and see source code for missing features!
 
-# To-do:	major testing for bugs
-#		some features (see source code)
-#		documentation
-#		migration to Python 3
+#To-dos
+    major testing for bugs
+		some features (see source code)
+		documentation
+		migration to Python 3
