@@ -383,7 +383,7 @@ def allNistCompounds():
 	all_compounds = []
 	with open('species.txt') as nist_file:
 		for line in nist_file.readlines():
-			all_compounds.append(tuple(line.split('\t')[:2])
+			all_compounds.append(tuple(line.split('\t')[:2]))
 	return all_compounds
 
 def download_page(url):
